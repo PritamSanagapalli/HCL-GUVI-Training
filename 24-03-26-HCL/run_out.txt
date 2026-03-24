@@ -1,0 +1,14 @@
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.0)
+
+2026-03-24T12:58:17.154+05:30  INFO 18904 --- [           main] c.c.EasyBasket.EasyBasketApplication     : Starting EasyBasketApplication v0.0.1-SNAPSHOT using Java 21.0.9 with PID 18904 (E:\24-03-26-HCL\target\EasyBasket-0.0.1-SNAPSHOT.jar started by USER in E:\24-03-26-HCL)
+2026-03-24T12:58:17.157+05:30  INFO 18904 --- [           main] c.c.EasyBasket.EasyBasketApplication     : No active profile set, falling back to 1 default profile: "default"
+2026-03-24T12:58:18.630+05:30  INFO 18904 --- [           main] c.c.EasyBasket.EasyBasketApplication     : Started EasyBasketApplication in 2.214 seconds (process running for 3.539)
+Processing with ChatGPT.
+Processing net banking payment.
